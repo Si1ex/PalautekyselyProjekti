@@ -1,4 +1,3 @@
-package com.example.harjoitustyo;
 
 import javafx.application.Application;
 import javafx.application.Platform;
