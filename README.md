@@ -1,3 +1,4 @@
 # Ohjelmointi 2 -kurssin projekti
 
-Kurssin palautekysely
+Kurssin palautekysely tiedostossa Kysely.java
+
